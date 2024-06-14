@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML-Projects/09-Wine-Quality-MlFlow/mlruns/0/7c9be13e497e4e138d02bcf01d0b1e35/artifacts
+end_time: 1718343204856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c9be13e497e4e138d02bcf01d0b1e35
+run_name: dazzling-elk-901
+run_uuid: 7c9be13e497e4e138d02bcf01d0b1e35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718343202122
+status: 3
+tags: []
+user_id: LENOVO

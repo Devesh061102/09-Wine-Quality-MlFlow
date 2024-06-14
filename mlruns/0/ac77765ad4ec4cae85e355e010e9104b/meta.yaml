@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML-Projects/09-Wine-Quality-MlFlow/mlruns/0/ac77765ad4ec4cae85e355e010e9104b/artifacts
+end_time: 1718342982476
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac77765ad4ec4cae85e355e010e9104b
+run_name: adaptable-grub-7
+run_uuid: ac77765ad4ec4cae85e355e010e9104b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718342979560
+status: 3
+tags: []
+user_id: LENOVO
